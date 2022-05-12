@@ -58,6 +58,67 @@
         "id":37,
         "name":"Vulpix",
         "Type":"Fire"
+    },
+    {
+        "id":35,
+        "name":"Clefairy",
+        "Type":"Fairy"
+    },
+    {
+        "id":39,
+        "name":"Jigglypuff",
+        "Type":"Fairy"
+    },
+    {
+        "id":43,
+        "name":"Oddish",
+        "Type":"Grass/Poison"
+    },
+    {
+        "id":48,
+        "name":"Venonat",
+        "Type":"Bug/Poison"
+    },
+    {
+        "id":50,
+        "name":"Diglett",
+        "Type":"Ground"
+    },
+    {
+        "id":54,
+        "name":"Psyduck",
+        "Type":"Normal/Flying"
+    },
+    {
+        "id":60,
+        "name":"Poliwag",
+        "Type":"Water"
+    },
+    {
+        "id":63,
+        "name":"Abra",
+        "Type":"Psychic"
+    },
+    {
+        "id":69,
+        "name":"Bellsprout",
+        "Type":"Grass/Poison"
+    },
+    {
+        "id":78,
+        "name":"Rapidash",
+        "Type":"Fire"
+    },
+    {
+        "id":93,
+        "name":"Haunter",
+        "Type":"Ghost"
+    },
+    {
+        "id":116,
+        "name":"Horsea",
+        "Type":"Fire"
     }
+    
 ]
 }
